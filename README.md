@@ -6,7 +6,7 @@ This is my first ever Rails application—I made it by following the [Blogger](h
 
 If you want to try the project yourself, navigate to the tutorial and follow the instructions.
 
-You also view my own version of the app online—it is hosted on heroku [here](lit-garden-31735.herokuapp.com). 
+You also view my own version of the app online—it is hosted on heroku [here](http://lit-garden-31735.herokuapp.com). 
 
 ## Final Notes
 
